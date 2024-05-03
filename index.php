@@ -76,7 +76,7 @@ $result = $conn->query($sql);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: skyblue;
+            background-color: lightblue;
         }
         .container {
             max-width: 80%;
